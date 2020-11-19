@@ -4,8 +4,9 @@
 
 .pwhome{
     text-align: center;
-    display: block;
-    margin: auto;
+    display: absolute;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .pages {
