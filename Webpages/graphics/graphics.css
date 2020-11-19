@@ -6,3 +6,10 @@
     max-width: 100%;
     height: auto;
 }
+
+.pwhome{
+    text-align: center;
+    display: absolute;
+    margin-left: auto;
+    margin-right: auto;
+}
