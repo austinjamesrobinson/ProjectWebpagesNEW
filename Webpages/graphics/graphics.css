@@ -1,5 +1,5 @@
 .home {
-    background-color: white;
+    background-color: black;
 }
 
 .webpages {
@@ -12,4 +12,25 @@
     display: absolute;
     margin-left: auto;
     margin-right: auto;
+}
+
+.initialparagraph {
+    font-family: 'Source Code Pro', monospace;
+    color: white;
+    font-size: 2.75vw;
+    margin-right: 2%;
+    margin-left: 1.5%;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:active{
+    color: white;
+}
+
+a:visited{
+    color: white;
 }
